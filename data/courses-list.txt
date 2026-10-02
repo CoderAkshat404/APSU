@@ -1,0 +1,253 @@
+This file contains: APSU Rewa mein available courses/programmes ki list, eligibility, aur available seats. Fee ki detail alag file "fee-structure.txt" mein hai.
+
+PG DEGREE PROGRAMMES
+
+In sabhi PG Degree programmes ki common eligibility hai: Passed 3-Year UG Programme in concerned subject as Major/Minor, ya qualified National/State Level ya University Level Entrance Exam in the discipline of the PG Programme - jab tak alag se eligibility na batayi jaye.
+
+MSc Environmental Biology hai, seats 30.
+
+MSc Physics hai, seats 30.
+
+MSc Chemistry hai, seats 60.
+
+MSc Mathematics hai, seats 60.
+
+MSc Botany hai, seats 30.
+
+MSc Bio-chemistry hai, seats 30.
+
+MSc Bio-technology hai, seats 60.
+
+MSc Computer Science hai, seats 30.
+
+MSc Microbiology hai, seats 30.
+
+MA Ancient Indian History Culture and Archaeology hai, seats 50.
+
+MA Business Economics hai, seats 30.
+
+MA Clinical Psychology hai, seats 30.
+
+MA English hai, seats 50.
+
+MA Hindi hai, seats 50.
+
+MA Jainology hai, seats 40.
+
+MA Philosophy hai, seats 30.
+
+MA Prakrut hai, seats 40.
+
+MA Psychology hai, seats 30.
+
+MA Yoga hai, seats 40.
+
+MBA Dual Specialization (HR, Finance, Marketing, Data Analytics mein se choose karna) hai, eligibility Graduate degree with 50% marks in aggregate, seats 78.
+
+MBA IR&PM (Industrial Relations and Personnel Management) hai, eligibility Graduate degree with 50% marks in aggregate, seats 60.
+
+MBA HRD hai, eligibility Graduate degree with 50% marks in aggregate, seats 80.
+
+MBA Tourism Administration hai, eligibility Graduate degree with 50% marks in aggregate, seats 30.
+
+MCA hai (AICTE Approved), eligibility Graduation degree with Maths at 10+2 level ya BCA degree with maths, seats 54.
+
+MSW hai, seats 30.
+
+MPEd hai, eligibility As per NCTE norms, seats 50.
+
+MPharm (Pharmaceutics) hai, eligibility BPharm with 55% marks from a PCI approved Institution, seats 15.
+
+MPharm (Pharmaceutical Chemistry) hai, eligibility BPharm with 55% marks from a PCI approved Institution, seats 15.
+
+MTech (Computer Science - AI and ML) hai, eligibility BE/BTech in CS, IT, AI related programmes, seats 30.
+
+LLM hai, eligibility LLB degree with 55% marks in aggregate, seats 50.
+
+
+UG PROGRAMMES (NEP 2020)
+
+Row 3 se 24 tak ki common eligibility hai: candidate ne concerned faculty ke concerned subject ki qualifying examination pass ki ho. Doosri faculty/subjects ke applicants ko CUET ya University-level examination us relevant subject/faculty mein qualify karna zaroori hai.
+
+BBA Honors (HR, Finance, Marketing, Event Management) hai, eligibility 10+2 or equivalent with 45% marks in aggregate, seats 120.
+
+BBA Honors (Tourism and Hospitality) hai, eligibility 10+2 or equivalent with 45% marks in aggregate, seats 60.
+
+BCA Honors hai, seats 96.
+
+BCom Honors hai, seats 168.
+
+BCom (Retail Operations Management) hai, seats 60.
+
+BSc (Agricultural Science) hai, seats 120.
+
+BSc Honors (Bio-technology) hai, seats 120.
+
+BSc Honors (Botany) hai, seats 60.
+
+BSc Honors (Micro-Biology) hai, seats 60.
+
+BSc Honors (Zoology) hai, seats 60.
+
+BSc Honors (Chemistry) hai, seats 60.
+
+BSc Honors (Biochemistry) hai, seats 60.
+
+BSc Honors (Computer Science) hai, seats 80.
+
+BSc Honors (Mathematics) hai, seats 60.
+
+BSc Honors (Physics) hai, seats 30.
+
+BSc Honors (Digital Electronics) hai, seats 50.
+
+BA Honors (Ancient Indian History Culture and Archaeology) hai, seats 120.
+
+BA Honors (English) hai, seats 50.
+
+BA Honors (Economics) hai, seats 60.
+
+BA Honors (Psychology) hai, seats 30.
+
+BA Honors (Philosophy) hai, seats 60.
+
+BA Honors (Sociology) hai, seats 60.
+
+BA Honors (Political Science) hai, seats 30.
+
+BA Honors (Hindi) hai, seats 60.
+
+BA Honors (Jainology) hai, eligibility 10+2 or equivalent with 45% marks in aggregate, seats 40.
+
+BA Honors (Prakrut) hai, eligibility 10+2 or equivalent with 45% marks in aggregate, seats 40.
+
+
+UG DEGREE PROGRAMMES
+
+BALLB Honors (Five Years) hai, eligibility 10+2 with 50% marks in aggregate, seats 160.
+
+BEd hai, eligibility UG/PG degree with 50% marks in aggregate, seats 100.
+
+BPEd hai, eligibility As per NCTE norms, seats 100.
+
+BPES (Bachelor of Physical Education and Sports) hai, eligibility 10+2 pass with 45% marks in aggregate or equivalent examination, seats 60.
+
+BPharm (PCI Approved) hai, eligibility 10+2 with 50% marks in aggregate, seats 100.
+
+BTech (Computer Science and Engineering - Data Science) hai, eligibility 10+2 Science Stream with Maths, seats 60.
+
+BTech (Mining and Mining Survey) hai, eligibility 10+2 Science Stream with Maths, seats 60.
+
+
+PG/UG DIPLOMA PROGRAMMES
+
+PGDCA hai, eligibility Bachelor Degree/Post Graduate Degree with 45% marks in aggregate, seats 60.
+
+PG Diploma in Data Science hai, eligibility same jaise PGDCA, seats 30.
+
+Diploma in Web Designing hai, eligibility 10+2 with Maths, seats 60.
+
+PGDGC (Post Graduate Diploma in Guidance and Counselling) hai, eligibility MA/MSc in Psychology with 50% marks in aggregate, seats 30.
+
+DYEd (PG Diploma in Yoga Education) hai, eligibility Bachelor Degree in any Discipline, seats 50.
+
+D Pharm (PCI approved) hai, eligibility 10+2 with 50% marks in aggregate, seats 60.
+
+Diploma in Interior Design hai, eligibility 10+2, seats 40.
+
+Diploma in Hardware and Networking hai, eligibility 10+2, seats 40.
+
+PG Diploma in Electronics hai, eligibility Graduation with Maths, seats 60.
+
+Diploma Course in Python hai, eligibility 10+2 with Maths, seats 60.
+
+Diploma Course in Cyber Security hai, eligibility 10+2 with Maths, seats 60.
+
+Diploma in Beauty Care, Bridal Fashion and Make Artists hai, eligibility 10+2, seats 30.
+
+Diploma in Cloud-Based Application and Network hai, eligibility Graduation in Any Discipline, seats 40.
+
+Diploma in Women Empowerment and Development hai, eligibility 10+2, seats 60.
+
+Diploma in Nutrition and Dietician hai, eligibility 10+2, seats 40.
+
+Diploma in Field Archeology hai, eligibility 10+2, seats 40.
+
+PG Diploma in Museology hai, eligibility Graduation in Any Discipline, seats 40.
+
+Diploma in Translation Studies hai, eligibility 10+2, seats 60.
+
+PG Diploma in Child Psychology and Family Counselling hai, eligibility Graduation with Psychology, seats 30.
+
+PG Diploma in Mental Health and Stress Management hai, eligibility Graduation with Psychology, seats 60.
+
+PG Diploma in Generative AI and Autonomous Agents hai, eligibility Graduation in Any Discipline, seats 30.
+
+PG Diploma in Rural Management hai, eligibility Graduation in Any Discipline, seats 60.
+
+PG Diploma in Naturopathy and Yogic Science hai, eligibility Graduation with Bio Stream, seats 60.
+
+PG Diploma in Vedic Mathematics hai, eligibility Graduation in Any Discipline, seats 60.
+
+PG Diploma in Water Conservation hai, eligibility Graduation in Any Discipline, seats 60.
+
+Diploma Programme in Vocal Music hai, eligibility 10+2, seats 40.
+
+Diploma in Life Values in Vedant hai, eligibility 10+2, seats 40.
+
+
+CERTIFICATE PROGRAMMES
+
+Directorate of Skill Development ke tehat 30 se zyada certificate programmes offer hote hain, jaise Molecular Diagnostics, Clinical Microbiology, Solar Energy, Instrumentation, Statistical Analysis Software, Bio-Informatics, Communication and Soft Skills, Micro Financing, Entrepreneurship, Sales and Marketing, Retail Management, Co-operative Management, Yoga, Journalism and Mass Communication, Rural Management, Career and Guidance, Sports Personality Development, Sports Management, Sports Medicine and Physiotherapy, Satvik Aahar, Gau Samvardhan, Sanskrit Subodham, Gujarati Language, aur Sindhi Language. In sabhi certificate programmes ki eligibility 10+2 pass hai.
+
+
+DEPARTMENT-WISE PROGRAMME MAPPING (Regular vs Self-Financing)
+
+Ye section batata hai ki har department "Regular" (kam fee wale, university-funded) aur "Self-Financing" (self-supporting, zyada fee wale) programmes mein se kya-kya offer karta hai.
+
+Ancient Indian History, Culture & Archaeology: Regular mein MA aur PhD (AIHC&A) aur PhD (History) hai. Self-Financing mein MBA Tourism Administration, BBA Honors Tourism and Hospitality, BA Honors AIHC&A, Diploma in Field Archeology, PG Diploma in Museology, MA/BA Jainology, aur MA/BA Prakrut hai.
+
+Business Administration: Regular mein MBA Dual Specialization aur PhD (Business Administration) hai. Self-Financing mein BBA Honors (HR/Finance/Marketing/Event Management) hai.
+
+Business Economics: Regular mein MA aur PhD (Business Economics) hai. Self-Financing mein BA Honors Economics, BCom Honors, BCom (Retail Operations Management) hai. Ye department BALLB Honors aur LLM ke liye bhi Nodal Department hai.
+
+Chemistry: Regular mein MSc aur PhD (Chemistry) hai. Self-Financing mein MSc aur BSc Honors Bio-Chemistry, BSc Honors Chemistry, aur BPharm/DPharm hai.
+
+Computer Applications: Isme koi Regular programme nahi hai. Self-Financing mein MCA, BCA, Diploma in Hardware and Networking, Diploma in Web Designing, aur Diploma in Cloud Based Application and Networking hai.
+
+Computer Science: Regular mein PGDCA aur PhD (Computer Science) hai. Self-Financing mein MSc aur BSc Honors Computer Science, MTech (CS-AI&ML), BTech (CSE-Data Science), PG Diploma in Data Science, Diploma Course in Python, Diploma Course in Cyber Security, aur PG Diploma in Generative AI and Autonomous Agents hai.
+
+English: Regular mein MA aur PhD (English) hai. Self-Financing mein BA Honors English aur Diploma in Translation Studies hai.
+
+Environmental Biology: Regular mein MSc aur PhD (Env. Biology), PhD (Bio-Technology), aur PhD (Micro-Biology) hai. Self-Financing mein MSc/BSc Honors Bio-Technology, MSc/BSc Honors Micro-Biology, BSc Honors/MSc Botany, BSc Honors/MSc Zoology, BSc Agriculture Science, aur Diploma in Nutrition and Dietician hai.
+
+Hindi: Regular mein MA aur PhD (Hindi) hai. Self-Financing mein BA Honors Hindi aur Certificate Programme in Gujarati Language hai.
+
+Jawaharlal Nehru Centre for Policy Research: Isme koi Regular programme nahi hai. Self-Financing mein BA (Political Science) hai.
+
+Life Long Learning: Regular mein PhD (Education) hai. Self-Financing mein MBA HRD, PG Diploma in Rural Management, aur BEd hai.
+
+Mathematical Sciences: Regular mein MSc aur PhD (Mathematics) hai. Self-Financing mein BSc Honors Mathematics aur PG Diploma in Vedic Mathematics hai.
+
+Philosophy: Regular mein MA aur PhD (Philosophy) hai. Self-Financing mein BA Honors Philosophy, BA Honors/MA Sociology, MSW, aur Diploma in Life Values in Vedant hai. Ye department Diploma in Vocal Music ke liye bhi Nodal Department hai.
+
+Physics: Regular mein MSc aur PhD (Physics) hai. Self-Financing mein BSc Honors Physics aur BTech (Mining and Mining Survey) hai. Ye department Diploma in Women Empowerment and Development ke liye bhi Nodal Department hai.
+
+Physical Education & Sports: Regular mein PhD (Physical Education) hai. Self-Financing mein MPEd, BPEd, BPES, MA Yoga/DYEd, aur PG Diploma in Naturopathy and Yogic Science hai.
+
+Psychology: Regular mein MA aur PhD (Psychology) hai. Self-Financing mein MBA IR&PM, PGDGC, MA Clinical Psychology/BA Honors Psychology, PG Diploma in Child Psychology and Family Counselling, aur PG Diploma in Mental Health and Stress Management hai.
+
+Note: "Nodal Department" ka matlab hai ki wo programme kisi doosre department ke academic supervision ke under offer hota hai, jabki wo programme khud kisi aur department se related lag sakta hai.
+
+KNOWN CONFLICT - MSW, SOCIOLOGY, MA YOGA, AUR DYEd KI DEPARTMENT MAPPING
+
+Do alag sources mein alag jaankari mili hai in programmes ke baare mein:
+- "Department-wise Programmes at a Glance" table ke according, MSW, BA Honors/MA Sociology, aur Diploma in Life Values in Vedant Philosophy department ke Self-Financing programmes hain.
+- Lekin Department of Psychology ke apne profile page ke according, Psychology department khud MSW, BA Sociology, MA Yoga, aur DYEd (Diploma in Yoga Education) ke liye "nodal department" hai (Study Centre for Industrial Relations and Personal Management aur Study Centre for Social Work ke through).
+
+Ye ek genuine conflict hai bulletin ke andar hi. Agar student in courses (MSW, Sociology, MA Yoga, DYEd) ke exact department ke baare mein pooche, to agent ko koi ek version confidently nahi batana chahiye. Agent ko kehna chahiye: "Is course ke exact department ke baare mein mere paas do alag jaankariyan hain, is confusion se bachne ke liye kripya concerned department ya admission office se confirm karein."
+
+
+ADMISSION MODE NOTE
+
+MBA Programme (AICTE Approved) ka admission CMAT aur Director, Technical Education (DTE), Bhopal (MP) ke through hota hai. BEd, BPEd aur MPEd Programmes (NCTE Approved) ka admission Madhya Pradesh Higher Education Department, Bhopal (MP) ke through hota hai. MPharm, BPharm aur DPharm Programmes (PCI approved) ka admission Director, Technical Education (DTE), Madhya Pradesh, Bhopal (MP) ke through hota hai.

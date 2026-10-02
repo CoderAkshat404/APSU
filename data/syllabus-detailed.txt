@@ -1,0 +1,140 @@
+This file contains: APSU Rewa ke 9 courses ka paper-wise/semester-wise syllabus structure. Ye data seedha students dwara upload kiye gaye official APSU curriculum PDFs se liya gaya hai (Board of Studies approved documents).
+
+
+=== PGDCA (Post Graduate Computer Application) ===
+
+Note: PGDCA ka poora, current (Session 2025-26) syllabus alag file 'syllabus-pgdca.txt' mein hai. Ye purani file (jo 2020-21 curriculum par based thi) yahan se hata di gayi hai kyunki naya curriculum bilkul different hai (ab AI Tools, E-Commerce, Data Science jaise papers hain). Agent ko sirf 'syllabus-pgdca.txt' wala data use karna chahiye PGDCA ke liye.
+
+
+=== B.Sc. (Hons) Computer Science ===
+
+Ye 4-year NEP 2020 programme hai, 8 semesters ka.
+
+Semester 1: 101 Programming Methodology (Major Core, 6 credit), 102 Calculus (Minor Core, 6 credit), 103 Internet Technology (Generic Elective, 4 credit), 104 English (Ability Enhancement, 4 credit).
+
+Semester 2: 201 Computer System Architecture (Major Core), 202 Algebra and Geometry (Minor Core), 203 Mobile Application Development (GE), 204 Environment Science (AE).
+
+Semester 3: 301 Data Structure and Algorithms (Major Core), 302 Mechanics (Minor Core), 303 Data Mining (GE), 304 Programming in Java (Skill Enhancement).
+
+Semester 4: 401 Discrete Structure (Major Core), 402 Mathematical Physics (Minor Core), 403 Python Programming (GE), 404 MATLAB Programming (Skill Enhancement).
+
+Semester 5: 501 Database Management System (Major Core), 502 elective mein Object Oriented Programming ya Image Processing ya Data Analytics, 503 Web Programming, 504 Field Project/Internship/Apprenticeship.
+
+Semester 6: 601 Computer Network (Major Core), 602 elective mein System Security ya Computer Ethics ya Human Computer Interface, 603 elective mein Software Engineering ya Modelling and Simulation ya GIMP, 604 Field Project/Internship.
+
+Semester 7: 701 Operating System (Major Core), 702 elective mein Cloud Computing ya System Programming ya Artificial Intelligence ya Internet of Things, 703 Research Methodology, 704 Field Project/Internship.
+
+Semester 8: 801 Theory of Computation (Major Core), 802 Quantum Mechanics (Minor Core), 803 Field Project/Internship/Research Project.
+
+
+=== BA (Hons) AIHC and Archaeology (Ancient Indian History, Culture and Archaeology) ===
+
+NEP 2020 ke tehat 4-year programme hai.
+
+Semester 1: 101 Introduction of Ancient Indian History, Culture & Archaeology (Major), 102 Indian Philosophy-I (Minor), 103 Ancient Indian Human Value (GE), 104 English (AE).
+
+Semester 2: 201 Methods of Archaeology (Major), 202 Indian Philosophy-II (Minor), 203 Heritage Management in India (GE), 204 Environment (AE).
+
+Semester 3: 301 Political History of North India 600 BC to 1200 AD (Major), 302 Polity and Administration-I (Minor), 303 Social Institution of Ancient India (GE), 304 Museology (Skill Enhancement Course).
+
+Semester 4: 401 Political History of South India (Major), 402 Polity and Administration-II (Minor), 403 Economic Institution of Ancient India (GE), 404 Environmental Archaeology (SEC).
+
+Pratham saal poora karne par Certificate in Bachelor of Arts milta hai. Semester 5-8 ki detailed jaankari abhi verify nahi ho payi hai.
+
+
+=== M.A. AIHC and Archaeology (Ancient Indian History, Culture and Archaeology) ===
+
+Semester 1: Sources of Ancient Indian History, Indian Pre History, Political History of North India Part 1, Art Heritage of India, Viva-Voce.
+
+Semester 2: Political History of North India Part 2, Political History of South India, Proto History of India, Elements of Sculptures and Iconography, Viva-Voce.
+
+Semester 3: Indian Numismatics, Indian Inscription and Scriptography, ek option mein Ancient Indian Religious Traditions ya Ancient Indian Philosophical Traditions, ek option mein Methods of Archaeology and Historial Archaeology ya Environmental Archaeology, Viva-Voce.
+
+Semester 4: Ancient Indian State and Administration, Socio and Economic History of Ancient India, ek option mein Field Archaeology and Training ya Human Value, ek option mein Art and Archaeology of Vindhyas ya Conservation Preservation and Dating Techniques, Practical Training Viva-Voce, aur Viva-Voce.
+
+
+=== M.Sc. Mathematics ===
+
+Semester 1: Core papers MAT-C101 Advanced Abstract Algebra-I, MAT-C102 Real Analysis, MAT-C103 Topology-I, MAT-C104 Complex Analysis (sab 4 credit ke). Generic Elective mein ek chunna hota hai Tensor Analysis ya Linear Programming Problems ya Computational Mathematics. Aakhri mein MAT-C108 Comprehensive Viva-Voce.
+
+Semester 2: Core papers Advanced Abstract Algebra-II, Lebesgue Measure and Integration, Topology-II, Differential Geometry. Generic Elective mein Number Theory ya Wavelet Analysis ya Quantitative Techniques. Comprehensive Viva-Voce.
+
+Semester 3: Core papers Functional Analysis-I, Advanced Special Functions-I, Riemannian Geometry-I. Discipline Centric Elective mein Integral Transforms-I ya Differential Geometry of Manifolds-I ya General Theory of Relativity and Cosmology-I. Generic Elective mein Operations Research-I ya Advanced Discrete Mathematics-I ya Bio-Mathematics. Comprehensive Viva-Voce.
+
+Semester 4: Core papers Functional Analysis-II, Advanced Special Functions-II, Riemannian Geometry-II. Discipline Centric Elective mein Integral Transforms-II ya Differential Geometry of Manifolds-II ya General Theory of Relativity and Cosmology-II. Generic Elective mein Operations Research-II ya Advanced Discrete Mathematics-II ya Cryptography. Comprehensive Viva-Voce.
+
+Har paper 4 credit ka hota hai, 60 marks theory external aur 40 marks continuous evaluation ke saath. Total 4 semester mein 96 credits hote hain.
+
+
+=== MBA (HRD) - Human Resource Development ===
+
+Semester 1: 101 Management Concepts & Process, 102 Quantitative Methods, 103 Managerial Economics, 104 Environmental Management, 105 Computer Application in Management, 106 Managerial Skills Development, 107 HRD Strategies and System, 108 Comprehensive Viva-Voce.
+
+Semester 2: 201 Legal Framework Governing Human Relations, 202 Human Resource Management, 203 Business Environment, 204 Functional Management, 205 Organizational Change and Intervention Strategies, 206 Organizational Behavior, 207 Quality of Work Life and Total Quality Management, 208 Comprehensive Viva-Voce.
+
+Semester 3: 301 Human Resource Planning, 302 Management Information System and Decision Support System, aur aage ke papers ki poori jaankari abhi verify nahi ho payi.
+
+Semester 4: 401 Business Policy and Strategic Management, 402 Business Legislation, 403 Cross Cultural and Global Human Resource Management, 404A Industrial Psychology (option), 404B HRD in Specialized Sector (option).
+
+
+=== B.A. LL.B. (Hons) - Five Year Integrated Course ===
+
+Ye 10-semester, 5-year integrated law degree hai, Department of Law dwara conduct hoti hai.
+
+Semester 1: General English including Legal Language, Political Science-I, Sociology-I, Economics-I, Historical Development of Legal and Judicial Systems in India, Law of Torts-I.
+
+Semester 2: Political Science-II, Political Science-III, Sociology-II, Economics-II, Legal Method, Law of Torts II (MV Accident and Consumer Protection Laws).
+
+Semester 3: Political Science-IV, Sociology-III, Economics-III, Constitutional Law I, Law of Crimes I (General Principles), Law of Contract.
+
+Semester 4: Political Science-V, Political Science-VI, Constitutional Law-II, Law of Crimes-II (Specific Crimes), Professional Ethics and Professional Accountability, Specific Contract.
+
+Semester 5: Interpretation of Statutes, Information Technology (IT) Offences, Civil Procedure Code and Limitation Act, Family Law-I (Hindu Law), Public International Law, Law of Property-I.
+
+Semester 6: Administrative Law, Law of Property-II, Law of Crimes-III (Criminal Procedure Code), Family Law-II (Muslim Law), Law of Evidence, Drafting Pleading and Conveyancing.
+
+Semester 7: Jurisprudence, Private International Law, Human Rights Law and Practice, Company Law, Environmental Law, Labour and Industrial Law-I.
+
+Semester 8: Alternative Dispute Resolution, Labour and Industrial Law-II, Moot Court, Right to Information, aur electives (Group A mein Intellectual Property Rights Law and IPR Litigation ya International Organisation ya Indian Federalism).
+
+Semester 9 aur 10 ki detailed jaankari abhi verify nahi ho payi hai.
+
+
+=== M.Sc. Environmental Biology ===
+
+Ye 2-year, 4-semester programme hai.
+
+Semester 1: CC11 'Environmental Pollution and Environmental Chemistry' (6 credit), CC12 'Population Ecology' (6 credit), practical papers PC-11 aur PC-12, aur ek Seminar (2 credit).
+
+Semester 2: CC21 'Environmental Biotechnology and Instrumentation Techniques' (6 credit), CC22 'Biodiversity and Conservation' (6 credit), practical papers PC-21 aur PC-22, aur Value Added Course (2 credit).
+
+Semester 3: CC31 'Environmental Microbiology' (subject: Environmental Biology, 6 credit), CC32 'Biostatistics and Computer Application' (subject: Environmental Science), practical papers PC-31 aur PC-32, aur Seminar (2 credit).
+
+Semester 4: CC41 'Waste Utilization and Management for Energy Production' (6 credit), CC42 'Environment Resources and Monitoring Techniques' (jisme EIA process, Environmental Audit, Environmental Legislation, Remote Sensing aur GIS jaise topics shamil hain), practical papers PC-41 aur PC-42, aur Internship/Apprenticeship/Seminar (2 credit).
+
+Har semester mein total 22 credits hote hain.
+
+
+=== B.Ed (Bachelor of Education) - Two Year Programme ===
+
+First Year: CC1 Education in India - Status Problems and Issues, CC2 Childhood & Growing Up, CC3 Learning & Teaching, CC4 Curriculum Development & School, CC5 Education Policies School Leadership and Management, PC(I) Pedagogy of a School Subject Part 1, PC(II) Pedagogy of a School Subject Part 2, EPC1 Reading and Reflecting on Texts, EPC2 Drama & Art in Education, EPC3 Educational Psychology Practical. Total 850 marks.
+
+Second Year: CC1 Gender School & Society, Educational Technology & ICT, Creating an Inclusive School, Optional Course (Educational Administration and Management ya Value Education ya Health and Physical Education ya Guidance and Counselling in school ya Action Research mein se ek), EPC4 Understanding the Self, EPC5 Understanding of ICT, aur School Internship (350 marks, solah hafte ki internship). Total 850 marks.
+
+
+=== M.A. Hindi ===
+
+Programme code 518 hai, total 65 seats hain, duration 4 semester (2 saal), eligibility Snatak (Graduation) hai.
+
+Semester 1: CC-101 'Prachin evam Madhyakaleen Kavya tatha uska Itihas' (Ancient and Medieval Poetry and its History), CC-102 'Aadhunik Hindi Gadya aur uska Itihas' (Modern Hindi Prose and its History), CC-103 'Bharatiya evam Paschatya Kavya Shastra' (Indian and Western Poetics), GE-104 'Prayojan Moolak Hindi' (Applied Hindi). Har paper 4 credit ka, 100 marks (60 likhit + 40 maukhik).
+
+Semester 2: CC-201, CC-202, CC-203, GE-204 - same paper titles jaise Semester 1 (continuation).
+
+Semester 3: CC-301 'Aadhunik Hindi Kavya aur uska Itihas' (Modern Hindi Poetry and its History), CC-302 'Bhasha Vigyan evam Hindi Bhasha' (Linguistics and Hindi Language), CC-303 'Hindi Sahitya ka Itihas' (History of Hindi Literature), GE-304 vaikalpik prashna-patra (Surdas, Tulsidas, Baghели Bhasha aur uska Itihas).
+
+Semester 4: CC-401, CC-402, CC-403, GE-404 - same paper titles jaise Semester 3 (continuation).
+
+Hindi department 1983 mein 'Mahakavi Keshav Adhyayan evam Anusandhan Kendra' ke naam se shuru hua tha, 1993 mein UGC ki sifarish par Hindi department ki sthapna hui, jiske sansthapak Prof. Kamla Prasad Pandey the.
+
+
+NOTE: Agar in 9 courses ke alawa kisi doosre course ke syllabus ke baare mein pooche, ya in courses ke hi baaki semesters (jo yahan verify nahi hue) ke baare mein pooche, to agent ko honestly bolna chahiye ki ye jaankari abhi available nahi hai, concerned department se confirm karein.

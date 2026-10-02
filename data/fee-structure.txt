@@ -1,0 +1,202 @@
+This file contains: APSU Rewa ke sabhi programmes ki tuition fee (per semester ya per year).
+
+PG DEGREE PROGRAMMES KI FEE
+
+MSc Environmental Biology ki fee 2,250 rupaye per semester hai.
+
+MSc Physics ki fee 2,250 rupaye per semester hai.
+
+MSc Chemistry ki fee 2,250 rupaye per semester hai.
+
+MSc Mathematics ki fee 2,250 rupaye per semester hai.
+
+MSc Botany ki fee 10,000 rupaye per semester hai.
+
+MSc Bio-chemistry ki fee 16,000 rupaye per semester hai.
+
+MSc Bio-technology ki fee 18,000 rupaye per semester hai.
+
+MSc Computer Science ki fee 14,000 rupaye per semester hai.
+
+MSc Microbiology ki fee 18,000 rupaye per semester hai.
+
+MA Ancient Indian History Culture and Archaeology ki fee 2,250 rupaye per semester hai.
+
+MA Business Economics ki fee 2,250 rupaye per semester hai.
+
+MA Clinical Psychology ki fee 10,000 rupaye per semester hai.
+
+MA English ki fee 2,250 rupaye per semester hai.
+
+MA Hindi ki fee 2,250 rupaye per semester hai.
+
+MA Jainology ki fee 8,000 rupaye per semester hai.
+
+MA Philosophy ki fee 2,250 rupaye per semester hai.
+
+MA Prakrut ki fee 8,000 rupaye per semester hai.
+
+MA Psychology ki fee 2,250 rupaye per semester hai.
+
+MA Yoga ki fee 10,000 rupaye per semester hai.
+
+MBA Dual Specialization (HR, Finance, Marketing, Data Analytics) ki fee 23,000 rupaye per semester hai.
+
+MBA IR&PM (Industrial Relations and Personnel Management) ki fee 15,000 rupaye per semester hai.
+
+MBA HRD ki fee 15,000 rupaye per semester hai.
+
+MBA Tourism Administration ki fee 15,000 rupaye per semester hai.
+
+MCA ki fee 15,000 rupaye per semester hai.
+
+MSW ki fee 14,000 rupaye per semester hai.
+
+MPEd ki fee 50,000 rupaye per year hai.
+
+MPharm (Pharmaceutics) ki fee 30,000 rupaye per semester hai.
+
+MPharm (Pharmaceutical Chemistry) ki fee 30,000 rupaye per semester hai.
+
+MTech (Computer Science - AI and ML) ki fee 30,000 rupaye per semester hai.
+
+LLM ki fee 15,000 rupaye per semester hai.
+
+
+UG PROGRAMMES (NEP 2020) KI FEE
+
+BBA Honors (HR, Finance, Marketing, Event Management) ki fee 14,500 rupaye per semester hai.
+
+BBA Honors (Tourism and Hospitality) ki fee 10,000 rupaye per semester hai.
+
+BCA Honors ki fee 12,000 rupaye per semester hai.
+
+BCom Honors ki fee 9,000 rupaye per semester hai.
+
+BCom (Retail Operations Management) ki fee 9,000 rupaye per semester hai.
+
+BSc (Agricultural Science) ki fee 20,000 rupaye per semester hai.
+
+BSc Honors (Bio-technology) ki fee 7,500 rupaye per semester hai.
+
+BSc Honors (Botany) ki fee 7,500 rupaye per semester hai.
+
+BSc Honors (Micro-Biology) ki fee 7,500 rupaye per semester hai.
+
+BSc Honors (Zoology) ki fee 7,500 rupaye per semester hai.
+
+BSc Honors (Chemistry) ki fee 7,500 rupaye per semester hai.
+
+BSc Honors (Biochemistry) ki fee 7,500 rupaye per semester hai.
+
+BSc Honors (Computer Science) ki fee 7,500 rupaye per semester hai.
+
+BSc Honors (Mathematics) ki fee 7,500 rupaye per semester hai.
+
+BSc Honors (Physics) ki fee 7,500 rupaye per semester hai.
+
+BSc Honors (Digital Electronics) ki fee 7,500 rupaye per semester hai.
+
+BA Honors (Ancient Indian History Culture and Archaeology) ki fee 6,000 rupaye per semester hai.
+
+BA Honors (English) ki fee 6,000 rupaye per semester hai.
+
+BA Honors (Economics) ki fee 6,000 rupaye per semester hai.
+
+BA Honors (Psychology) ki fee 6,000 rupaye per semester hai.
+
+BA Honors (Philosophy) ki fee 6,000 rupaye per semester hai.
+
+BA Honors (Sociology) ki fee 6,000 rupaye per semester hai.
+
+BA Honors (Political Science) ki fee 6,000 rupaye per semester hai.
+
+BA Honors (Hindi) ki fee 6,000 rupaye per semester hai.
+
+BA Honors (Jainology) ki fee 5,000 rupaye per semester hai.
+
+BA Honors (Prakrut) ki fee 5,000 rupaye per semester hai.
+
+
+UG DEGREE PROGRAMMES KI FEE
+
+BALLB Honors (Five Years) ki fee 9,000 rupaye per semester hai.
+
+BEd ki fee 40,000 rupaye per year hai.
+
+BPEd ki fee 30,000 rupaye per year hai.
+
+BPES (Bachelor of Physical Education and Sports) ki fee 5,000 rupaye per semester hai.
+
+BPharm (PCI Approved) ki fee 22,500 rupaye per semester hai.
+
+BTech (Computer Science and Engineering - Data Science) ki fee 30,000 rupaye per semester hai.
+
+BTech (Mining and Mining Survey) ki fee 30,000 rupaye per semester hai.
+
+
+PG/UG DIPLOMA PROGRAMMES KI FEE
+
+PGDCA ki fee 5,000 rupaye per semester hai.
+
+PG Diploma in Data Science ki fee 5,000 rupaye per semester hai.
+
+Diploma in Web Designing ki fee 7,500 rupaye per semester hai.
+
+PGDGC (Post Graduate Diploma in Guidance and Counselling) ki fee 9,600 rupaye per semester hai.
+
+DYEd (PG Diploma in Yoga Education) ki fee 12,000 rupaye per year hai.
+
+D Pharm (PCI approved) ki fee 20,000 rupaye per semester hai.
+
+Diploma in Interior Design ki fee 5,000 rupaye per semester hai.
+
+Diploma in Hardware and Networking ki fee 9,000 rupaye per semester hai.
+
+PG Diploma in Electronics ki fee 6,000 rupaye per semester hai.
+
+Diploma Course in Python ki fee 6,000 rupaye per semester hai.
+
+Diploma Course in Cyber Security ki fee 6,000 rupaye per semester hai.
+
+Diploma in Beauty Care, Bridal Fashion and Make Artists ki fee 5,000 rupaye per semester hai.
+
+Diploma in Cloud-Based Application and Network ki fee 9,000 rupaye per semester hai.
+
+Diploma in Women Empowerment and Development ki fee 5,000 rupaye per semester hai.
+
+Diploma in Nutrition and Dietician ki fee 5,000 rupaye per semester hai.
+
+Diploma in Field Archeology ki fee 6,000 rupaye per semester hai.
+
+PG Diploma in Museology ki fee 6,000 rupaye per semester hai.
+
+Diploma in Translation Studies ki fee 10,000 rupaye per semester hai.
+
+PG Diploma in Child Psychology and Family Counselling ki fee 10,000 rupaye per semester hai.
+
+PG Diploma in Mental Health and Stress Management ki fee 10,000 rupaye per semester hai.
+
+PG Diploma in Generative AI and Autonomous Agents ki fee 6,000 rupaye per semester hai.
+
+PG Diploma in Rural Management ki fee 15,000 rupaye per semester hai.
+
+PG Diploma in Naturopathy and Yogic Science ki fee 12,000 rupaye per semester hai.
+
+PG Diploma in Vedic Mathematics ki fee 6,000 rupaye per semester hai.
+
+PG Diploma in Water Conservation ki fee 6,000 rupaye per semester hai.
+
+Diploma Programme in Vocal Music ki fee 5,000 rupaye per semester hai.
+
+Diploma in Life Values in Vedant ki fee 5,000 rupaye per semester hai.
+
+
+CERTIFICATE PROGRAMMES KI FEE
+
+Certificate Programmes ki exact fee is file mein verify nahi hui hai. Agar koi puche, to agent ko guess nahi karna chahiye - Directorate of Skill Development ya concerned department se confirm karne ki salah deni chahiye.
+
+
+IMPORTANT NOTE
+
+Fee samay ke saath badal sakti hai. Agar koi discrepancy dikhe purani jaankari se, to sabse current verified number hi use karna chahiye.
